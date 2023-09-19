@@ -1,0 +1,2 @@
+git fetch origin (fetch all changes)
+git pull origin master (pull changes from the origin remote, to origin master )
